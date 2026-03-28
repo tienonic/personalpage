@@ -1,0 +1,9 @@
+CLAUDE.md
+.claude/
+.cursorrules
+.aiderignore
+.env
+.env.*
+*.backup.*
+*.backup.html
+*.backup.js
